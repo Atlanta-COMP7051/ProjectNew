@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 251ed7f5f17004c88ae42fb3669b89bf
+timeCreated: 1570671249
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hey August
+  fontNames:
+  - Hey August
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

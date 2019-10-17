@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a2ab729d5fbd4fbf99b70197e2b5bf4
+timeCreated: 1570671132
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chocolate Dealer
+  fontNames:
+  - Chocolate Dealer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

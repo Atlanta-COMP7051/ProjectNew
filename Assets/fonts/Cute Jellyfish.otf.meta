@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7974930e747b499ea9facf3b1d22c8a
+timeCreated: 1570671226
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Jellyfish
+  fontNames:
+  - Cute Jellyfish
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

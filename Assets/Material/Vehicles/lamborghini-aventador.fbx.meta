@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 294488715eea8ca46a21a8e19a24fa7f
+timeCreated: 1571006162
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera_Perspective12
+    100002: Engine
+    100004: FL_Tire
+    100006: FL_Wheel
+    100008: FR_Tire
+    100010: FR_Wheel
+    100012: Glass
+    100014: Interior
+    100016: Interior_Effects
+    100018: //RootNode
+    100020: Light_Side
+    100022: LightAssemblies
+    100024: MainBody
+    100026: MainTrim
+    100028: Mirrors
+    100030: Null
+    100032: Plane
+    100034: R_Tires
+    100036: R_Wheels
+    100038: SpotLight
+    100040: SpotLight1
+    100042: SpotLight2
+    100044: Underside
+    100046: V-Ray Area Light
+    400000: Camera_Perspective12
+    400002: Engine
+    400004: FL_Tire
+    400006: FL_Wheel
+    400008: FR_Tire
+    400010: FR_Wheel
+    400012: Glass
+    400014: Interior
+    400016: Interior_Effects
+    400018: //RootNode
+    400020: Light_Side
+    400022: LightAssemblies
+    400024: MainBody
+    400026: MainTrim
+    400028: Mirrors
+    400030: Null
+    400032: Plane
+    400034: R_Tires
+    400036: R_Wheels
+    400038: SpotLight
+    400040: SpotLight1
+    400042: SpotLight2
+    400044: Underside
+    400046: V-Ray Area Light
+    2300000: Engine
+    2300002: FL_Tire
+    2300004: FL_Wheel
+    2300006: FR_Tire
+    2300008: FR_Wheel
+    2300010: Glass
+    2300012: Interior
+    2300014: Interior_Effects
+    2300016: Light_Side
+    2300018: LightAssemblies
+    2300020: MainBody
+    2300022: MainTrim
+    2300024: Mirrors
+    2300026: Plane
+    2300028: R_Tires
+    2300030: R_Wheels
+    2300032: Underside
+    3300000: Engine
+    3300002: FL_Tire
+    3300004: FL_Wheel
+    3300006: FR_Tire
+    3300008: FR_Wheel
+    3300010: Glass
+    3300012: Interior
+    3300014: Interior_Effects
+    3300016: Light_Side
+    3300018: LightAssemblies
+    3300020: MainBody
+    3300022: MainTrim
+    3300024: Mirrors
+    3300026: Plane
+    3300028: R_Tires
+    3300030: R_Wheels
+    3300032: Underside
+    4300000: FL_Wheel
+    4300002: R_Tires
+    4300004: Interior
+    4300006: Light_Side
+    4300008: Mirrors
+    4300010: MainTrim
+    4300012: Plane
+    4300014: Underside
+    4300016: Engine
+    4300018: Glass
+    4300020: R_Wheels
+    4300022: FR_Wheel
+    4300024: Interior_Effects
+    4300026: FR_Tire
+    4300028: MainBody
+    4300030: LightAssemblies
+    4300032: FL_Tire
+    7400000: Base stack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
